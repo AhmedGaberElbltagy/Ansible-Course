@@ -4,4 +4,4 @@
     - name: Install packages
       yum:
         name: httpd
-        state: presentt
+        state: present
